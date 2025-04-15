@@ -1,5 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 15/04/25
+## Reg no: 212224040180
+## Name: Magesh S
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
